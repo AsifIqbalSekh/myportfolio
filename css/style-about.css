@@ -1,0 +1,146 @@
+
+body {
+    margin: 0;
+    text-align: left;
+    font-family: 'Alkalami', serif;
+}
+
+h1 {
+    
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #11999E;
+}
+
+hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c7d1d1;
+    border-width: 5px;
+    height: 0px;
+    width: 3%;
+}
+.top-container {
+    background-color: #E4F9F5;
+    padding: 30px;
+    margin: 0;
+}
+
+.btech-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+
+.diploma-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+.secondary-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+
+.cricket-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+.content-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+
+}
+.writing-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+.hobby-table{
+    
+    margin: 10px auto auto 160px;
+}
+
+.row{
+   
+    height: 150px;
+    padding: 50px;
+
+}
+
+.middle-container {
+    background-color: #E4F9F5;
+    margin: 0;
+    
+}
+
+.language-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+.language{
+    
+        margin: 120px auto 120px auto;
+    
+}
+
+/* complete */
+.address{
+    margin: 20px auto 120px auto;
+}
+.address-img{
+    width: 10%;
+    float: left;
+    margin: auto 60px auto auto;
+}
+.bottom-container{
+    margin: 0;
+    background-color: #E4F9F5;
+    padding: 50px;
+
+}
+.copyright{
+    color: #EAF6F6;
+    text-align: center;
+    background-color:#66BFBF;
+    margin: auto;
+    
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
