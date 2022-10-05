@@ -82,11 +82,14 @@ a {
     background-color: #E4F9F5;
     padding-top: 50px;
     /* position: relative; */
+    /* width: 100%; */
+    margin: 0;
+
 }
 
 .middle-container {
     background-color: #E4F9F5;
-    
+    margin: 0;
 }
 .top-cloud {
     position: absolute;
@@ -146,6 +149,7 @@ a {
 .bottom-container{
     background-color:#66BFBF ;
     padding: 30px;
+    margin: 0;
 
 }
 #copyright{
