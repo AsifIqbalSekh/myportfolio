@@ -7,7 +7,7 @@
 
 }
 .profile{
-    text-align: left;
+    text-align: middle;
     padding: 100px;
     position: relative;
 }
@@ -81,7 +81,7 @@ a {
 .top-container {
     background-color: #E4F9F5;
     padding-top: 50px;
-    position: relative;
+    /* position: relative; */
 }
 
 .middle-container {
