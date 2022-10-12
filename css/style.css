@@ -97,7 +97,8 @@ body {
     width: 100%;
 }
 .bottom-container{
-    background-color:#66BFBF ;
+    /* background-color:#66BFBF ; */
+    background-color: #E4F9F5;
     padding: 30px;
     margin: 0;
     position: relative;
@@ -162,7 +163,7 @@ body {
 
 #copyright{
     margin: 30px auto auto auto;
-    color: #EAF6F6;
+    color: #000808;
 }
 .footer-link{
     padding: 20px;
