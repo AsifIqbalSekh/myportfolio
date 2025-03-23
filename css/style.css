@@ -189,3 +189,68 @@ body {
   padding: 20px;
   color: #0e7ad8;
 }
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .profile-pic {
+    height: 200px;
+    width: 200px;
+    float: none;
+    position: relative;
+    left: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .profile {
+    text-align: center;
+    padding: 50px;
+  }
+
+  #profile-h1, #profile-description {
+    left: auto;
+    width: 90%;
+    text-align: center;
+    margin: 20px auto;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .skill-row {
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .python-img, .code-img, .algorithm-img, .mscloud-img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 10px auto;
+  }
+
+  .contact-me {
+    padding: 30px;
+  }
+
+  .top-cloud, .bottom-cloud {
+    display: none; /* Hide clouds on mobile for better layout */
+  }
+
+  .btn {
+    font-size: 18px;
+    padding: 8px 16px;
+  }
+
+  .footer-link {
+    padding: 10px;
+    display: block;
+    text-align: center;
+  }
+}
